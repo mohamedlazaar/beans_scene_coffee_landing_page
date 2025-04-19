@@ -1,7 +1,6 @@
 "use client"
 
 import React, { useState } from "react";
-import Image from "next/image";
 import { playfairDisplay } from '@/pages/index'
 import { CiMenuBurger } from "react-icons/ci";
 import { MdOutlineRestaurantMenu } from "react-icons/md";

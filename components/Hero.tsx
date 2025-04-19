@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import coffee_image from "@/public/coffee_image.png";
 import { playfairDisplay } from "@/pages/index";
 import Button from "@/components/common/Button";

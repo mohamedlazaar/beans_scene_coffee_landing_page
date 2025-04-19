@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Clicker_Script, Playfair_Display } from "next/font/google";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
@@ -6,7 +5,6 @@ import AboutSection from "@/components/AboutSection";
 import FeaturedProducts from "@/components/featuredProducts";
 import MulticolumnSection from "@/components/multicolumnSection";
 import GetStarted from "@/components/GetStarted";
-import coffee_image from "@/public/coffee_image.png";
 import cup from "@/public/cup.png";
 import bg_coffee from "@/public/bg_coffee.png";
 import stylized_cup from "@/public/stylized-cup-coffee.png";
