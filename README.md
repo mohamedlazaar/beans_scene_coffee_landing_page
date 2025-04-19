@@ -27,7 +27,7 @@ This project is based on the [Bean Scene Coffee Landing Page](https://www.figma.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bean-coffee-shop.git
+git clone https://github.com/mohamedlazaar/beans_scene_coffee_landing_page.git
 ```
 
 2. Install dependencies:
