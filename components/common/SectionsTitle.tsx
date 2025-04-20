@@ -1,5 +1,5 @@
 import { playfairDisplay } from "@/pages/index";
-import Image from "next/image";
+
 
 interface SectionsTitleProps {
     title: string;

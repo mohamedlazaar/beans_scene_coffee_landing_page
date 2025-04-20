@@ -1,5 +1,4 @@
 import React from "react";
-import { playfairDisplay } from "@/pages/index";
 import cappuccino from "@/public/products_images/cappuccino.png";
 import SectionsTitle from "@/components/common/SectionsTitle";
 import coffee_blast from "@/public/coffee_blast.png";

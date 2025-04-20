@@ -10,7 +10,7 @@ const Newsletter: React.FC = () => {
         <div className="relative w-full flex flex-col items-center py-[60px] justify-center" style={{backgroundImage: `url(${newsletter_bg.src})`}}>
             
             <SectionsTitle titleColor="text-center text-[#fff]" descriptionColor="text-center text-[#fff]" title="Subscribe to get the Latest News" 
-            description="Don’t miss out on our latest news, updates, tips and special offers" />
+            description="Don't miss out on our latest news, updates, tips and special offers" />
             <div className="md:w-[30%]  w-[90%] flex  items-center justify-center relative z-10 mt-10">
                 <input type="text" placeholder="Enter your email"  className={`${playfairDisplay.className} w-[70%] px-5 py-3 bg-white placeholder:text-black placeholder:opacity-[34%] `} />
                 <button className={`${playfairDisplay.className} w-[30%] py-3 bg-[#F9C06A] text-black`}>Subscribe</button>
