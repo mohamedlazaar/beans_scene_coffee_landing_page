@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { playfairDisplay } from "@/pages/index";
 import SectionsTitle from "@/components/common/SectionsTitle";
 import Button from "@/components/common/Button";
 

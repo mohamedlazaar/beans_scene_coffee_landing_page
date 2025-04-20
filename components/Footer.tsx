@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
                     Bean Scene
                 </h2>
                 <p className="text-white text-[14px] leading-[22px]">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                 </p>
                 <div className="flex gap-6">
                     <FaFacebook className="text-white text-[24px]" />
